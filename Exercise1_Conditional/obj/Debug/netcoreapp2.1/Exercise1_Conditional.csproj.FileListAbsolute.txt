@@ -1,0 +1,11 @@
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Excercise_1_Conditional\Exercise1_Conditional\bin\Debug\netcoreapp2.1\Exercise1_Conditional.deps.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Excercise_1_Conditional\Exercise1_Conditional\bin\Debug\netcoreapp2.1\Exercise1_Conditional.runtimeconfig.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Excercise_1_Conditional\Exercise1_Conditional\bin\Debug\netcoreapp2.1\Exercise1_Conditional.runtimeconfig.dev.json
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Excercise_1_Conditional\Exercise1_Conditional\bin\Debug\netcoreapp2.1\Exercise1_Conditional.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Excercise_1_Conditional\Exercise1_Conditional\bin\Debug\netcoreapp2.1\Exercise1_Conditional.pdb
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Excercise_1_Conditional\Exercise1_Conditional\obj\Debug\netcoreapp2.1\Exercise1_Conditional.csprojAssemblyReference.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Excercise_1_Conditional\Exercise1_Conditional\obj\Debug\netcoreapp2.1\Exercise1_Conditional.csproj.CoreCompileInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Excercise_1_Conditional\Exercise1_Conditional\obj\Debug\netcoreapp2.1\Exercise1_Conditional.AssemblyInfoInputs.cache
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Excercise_1_Conditional\Exercise1_Conditional\obj\Debug\netcoreapp2.1\Exercise1_Conditional.AssemblyInfo.cs
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Excercise_1_Conditional\Exercise1_Conditional\obj\Debug\netcoreapp2.1\Exercise1_Conditional.dll
+D:\Jovi\SmkCoding\Udemy\ToBePushed\Excercise_1_Conditional\Exercise1_Conditional\obj\Debug\netcoreapp2.1\Exercise1_Conditional.pdb
